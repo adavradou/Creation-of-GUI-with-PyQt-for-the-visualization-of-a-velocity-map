@@ -1,7 +1,5 @@
-# Vectormap
-Creation of GUI with PyQt for the visualization of a velocity map
+# Creation of GUI with PyQt for the visualization of a velocity map
 
------------------------------------------------------------------------------------------------------------
 This GUI was created in the contexts of a course for the visualization of a fluid’s flow velocity.
 
 A graphical interface using PyQt is created in order to edit the resulted vectormap (zoom in, change color, etc) using matplotlib.
