@@ -6,7 +6,7 @@ The code needs a .txt file of 5 columns: x y vx vy v. The x and y are the coordi
 The desired .txt file must first be selected and then “Plot” button must be clicked in order for the vectormap to be visualized.
 
 # Screenshot
-![Alt text](<a href="https://ibb.co/9WDMnPk"><img src="https://i.ibb.co/3c3J1K9/screenshot.png" alt="screenshot" border="0"></a>)
+<a href="https://ibb.co/9WDMnPk"><img src="https://i.ibb.co/3c3J1K9/screenshot.png" alt="screenshot" border="0"></a>
 
 
 
